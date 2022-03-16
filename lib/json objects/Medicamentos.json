@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "62312069b97ea7891ca7203a"
+    },
+    "IdPro": "1234",
+    "IdCat": "qw-1234",
+    "NomPro": "Acetaminofen",
+    "Marca": "MK",
+    "Descripción": "Dolor y fiebre",
+    "Precio": "500",
+    "Exi_Venta": "12 Cajas",
+    "Exi_Bodega": "20 Cajas"
+  },{
+    "_id": {
+      "$oid": "62312069b97ea7891ca7203b"
+    },
+    "IdPro": "5678",
+    "IdCat": "qw-5678",
+    "NomPro": "Ibuprofeno",
+    "Marca": "Genfar",
+    "Descripción": "Rapido y eficaz contra el dolor",
+    "Precio": "300",
+    "Exi_Venta": "8 Cajas",
+    "Exi_Bodega": "10 Cajas"
+  },{
+    "_id": {
+      "$oid": "62312069b97ea7891ca7203c"
+    },
+    "IdPro": "9101",
+    "IdCat": "qw-9101",
+    "NomPro": "Aspirina",
+    "Marca": "Bayer",
+    "Descripción": "Dolores de cabeza",
+    "Precio": "1500",
+    "Exi_Venta": "2 Cajas",
+    "Exi_Bodega": "10 Cajas"
+  }]

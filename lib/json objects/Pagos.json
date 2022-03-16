@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "6231228fb97ea7891ca72056"
+    },
+    "numtratamiento": "1",
+    "Tratamiento:": "Ortodoncía",
+    "Fecha": "28/01/2022",
+    "mediopago": "Efectivo",
+    "valor": "2.000.000"
+  },{
+    "_id": {
+      "$oid": "6231228fb97ea7891ca72057"
+    },
+    "numtratamiento": "2",
+    "Tratamiento:": "Odontopediatría",
+    "Fecha": "18/02/2022",
+    "mediopago": "Efectivo",
+    "valor": "1.000.000"
+  },{
+    "_id": {
+      "$oid": "6231228fb97ea7891ca72058"
+    },
+    "numtratamiento": "3",
+    "Tratamiento:": "Periodoncia",
+    "Fecha": "10/03/2022",
+    "mediopago": "Efectivo",
+    "valor": "1.500.000"
+  }]

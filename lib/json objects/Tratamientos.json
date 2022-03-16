@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "623124e9b97ea7891ca7206f"
+    },
+    "numtratamiento": "1",
+    "Tratamiento:": "Ortodoncía",
+    "Fecha": "28/01/2022",
+    "descripcion": "Rama de la odontología que se encarga de los problemas de los dientes y la mandíbula."
+  },{
+    "_id": {
+      "$oid": "623124e9b97ea7891ca72070"
+    },
+    "numtratamiento": "2",
+    "Tratamiento:": "Odontopediatría",
+    "Fecha": "18/02/2022",
+    "descripcion": "Especialidad que se basa en el estudio y el cuidado de los dientes de los niños."
+  },{
+    "_id": {
+      "$oid": "623124e9b97ea7891ca72071"
+    },
+    "numtratamiento": "3",
+    "Tratamiento:": "Periodoncia",
+    "Fecha": "10/03/2022",
+    "descripcion": "Área de la Odontología que se encarga del estudio, prevención y tratamiento de aquellas patologías."
+  }]

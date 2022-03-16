@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "62312429b97ea7891ca72068"
+    },
+    "idservicio": "1",
+    "nummedico:": "3",
+    "horario": "06:00:00-16:00:00",
+    "cargo": "Enfermeria general",
+    "tipo": "Citacion de tratamiento"
+  },{
+    "_id": {
+      "$oid": "62312429b97ea7891ca72069"
+    },
+    "idservicio": "2",
+    "nummedico:": "2",
+    "horario": "06:00:00-12:00:00",
+    "cargo": "Cirugía dental",
+    "tipo": "Cirugías"
+  },{
+    "_id": {
+      "$oid": "62312429b97ea7891ca7206a"
+    },
+    "idservicio": "3",
+    "nummedico:": "1",
+    "horario": "08:00:00-13:00:00",
+    "cargo": "Secretaría",
+    "tipo": "Citacion de consultas"
+  }]

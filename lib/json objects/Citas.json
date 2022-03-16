@@ -1,0 +1,34 @@
+[{
+    "_id": {
+      "$oid": "62311910b97ea7891ca7202e"
+    },
+    "numcita": "1",
+    "Tratamiento:": "Ortodoncía",
+    "Fecha": "22/03/2022",
+    "Hora": "11:00:00",
+    "NomDoc": "Daniel Alonso",
+    "ApeDoc": "Perez Ramirez",
+    "Prioridad": "Alta"
+  },{
+    "_id": {
+      "$oid": "62311910b97ea7891ca7202f"
+    },
+    "numcita": "2",
+    "Tratamiento:": "Odontopediatría",
+    "Fecha": "12/04/2022",
+    "Hora": "08:12:00",
+    "NomDoc": "Jose",
+    "ApeDoc": "Cabrera Cordoba",
+    "Prioridad": "Media"
+  },{
+    "_id": {
+      "$oid": "62311910b97ea7891ca72030"
+    },
+    "numcita": "3",
+    "Tratamiento:": "Periodoncia",
+    "Fecha": "07/10/2022",
+    "Hora": "11:30:00",
+    "NomDoc": "Marcela",
+    "ApeDoc": "Gomez Pantoja",
+    "Prioridad": "Baja"
+  }]

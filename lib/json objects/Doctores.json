@@ -1,0 +1,33 @@
+[{
+    "_id": {
+      "$oid": "62311c5fb97ea7891ca72034"
+    },
+    "NomDoc": "Daniel Alonso",
+    "ApeDoc": "Perez Ramirez",
+    "Genero": "Masculino",
+    "Profesión": "Medicina General",
+    "Edad": "38",
+    "Estrato": "2",
+    "Rh": "O+"
+  },{
+    "_id": {
+      "$oid": "62311c5fb97ea7891ca72035"
+    },
+    "NomDoc": "Jose",
+    "ApeDoc": "Cabrera Cordoba",
+    "Profesión": "Medicina General",
+    "Edad": "40",
+    "Estrato": "3",
+    "Rh": "AB+"
+  },{
+    "_id": {
+      "$oid": "62311c5fb97ea7891ca72036"
+    },
+    "NomDoc": "Marcela",
+    "ApeDoc": "Gomez Pantoja",
+    "Genero": "Masculino",
+    "Profesión": "Medicina General",
+    "Edad": "40",
+    "Estrato": "30",
+    "Rh": "A+"
+  }]
